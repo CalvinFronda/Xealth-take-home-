@@ -25,9 +25,9 @@ Test cases:
 ## Running the tests
 
 The tests are written with Jest and are located in `./script.test.js`. To run the test, you must have nodeJS installed on your computer. 
-
-1. Run `npm install` to intall jest dependencys 
-2. Run `npm test` to run all test cases 
+1. Create a clone of the repository on your local computer
+2. Run `npm install` in the terminal to install jest dependencies 
+2. Run `npm test` in the terminal to run all test cases 
 
 
 
